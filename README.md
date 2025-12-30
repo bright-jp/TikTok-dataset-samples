@@ -1,58 +1,58 @@
 # TikTok-dataset-samples
 
-<h2>A sample dataset of 1001 TikTok profiles</h2>
+<h2>1001件のTikTokプロフィールのサンプルデータセット</h2>
 
 ![TikTok dataset header](https://github.com/luminati-io/TikTok-dataset-samples/blob/main/tiktok-datasets.PNG)
 
-A TikTok dataset sample of over 1000 profiles. Dataset was extracted using the <b>Bright Data API</b>.
+1000件以上のプロフィールを含むTikTokデータセットサンプルです。データセットは <b>Bright Data API</b> を使用して抽出されました。
 
-<h2>Data points included in this free dataset:</h2>
+<h2>この無料データセットに含まれるデータポイント:</h2>
 
-* ```account_id```: A unique identifier for the TikTok account
-* ```nickname```: The username or display name of the TikTok user
-* ```awg_engagement_rate```: The average engagement rate for the user's content
-* ```comment_engagement_rate```: The engagement rate specifically related to comments on the user's content
-* ```like_engagement_rate```: The engagement rate specifically related to likes on the user's content
-* ```predicted_lang```: The predicted language of the user's content
-* ```is_verified```: Indicates whether the TikTok account is verified (True/False)
-* ```followers```: The number of followers the TikTok user has
-* ```following```: The number of accounts that the TikTok user is following
-* ```likes```: The total number of likes received by the TikTok user
-* ```videos_count```: The total number of videos uploaded by the TikTok user
-* ```id```: A unique identifier associated with the TikTok user
-* ```url```: The URL or link to the TikTok user's profile
-* ```profile_pic_url```: URL to the profile picture of the TikTok user
-* ```digg_count```: The total number of "Digg" interactions received by the user's content
-* ```profile_pic_url_hd```: URL to the high-definition profile picture of the TikTok user
-* ```is_ad_virtual```: Indicates whether the user is associated with virtual advertising
-* ```region```: The region associated with the TikTok user
+* ```account_id```: TikTokアカウントの一意の識別子です
+* ```nickname```: TikTokユーザーのユーザー名または表示名です
+* ```awg_engagement_rate```: ユーザーコンテンツの平均エンゲージメント率です
+* ```comment_engagement_rate```: ユーザーコンテンツにおけるコメントに特化したエンゲージメント率です
+* ```like_engagement_rate```: ユーザーコンテンツにおけるいいねに特化したエンゲージメント率です
+* ```predicted_lang```: ユーザーコンテンツの推定言語です
+* ```is_verified```: TikTokアカウントが認証済みかどうかを示します（True/False）
+* ```followers```: TikTokユーザーのフォロワー数です
+* ```following```: TikTokユーザーがフォローしているアカウント数です
+* ```likes```: TikTokユーザーが受け取ったいいねの総数です
+* ```videos_count```: TikTokユーザーがアップロードした動画の総数です
+* ```id```: TikTokユーザーに関連付けられた一意の識別子です
+* ```url```: TikTokユーザーのプロフィールへのURLまたはリンクです
+* ```profile_pic_url```: TikTokユーザーのプロフィール画像のURLです
+* ```digg_count```: ユーザーコンテンツが受け取った「Digg」インタラクションの総数です
+* ```profile_pic_url_hd```: TikTokユーザーの高解像度プロフィール画像のURLです
+* ```is_ad_virtual```: ユーザーがバーチャル広告に関連しているかどうかを示します
+* ```region```: TikTokユーザーに関連付けられた地域です
 
-And a lot more.
+ほかにも多数含まれています。
 
-This is a sample subset which is derived from the "TikTok Profiles (public data)"
-dataset which includes more than <b>116,760,000 profiles</b>.
+これは「TikTok Profiles (public data)」データセットから派生したサンプルサブセットであり、
+このデータセットには <b>116,760,000件以上のプロフィール</b> が含まれています。
 
-Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
+利用可能なデータセットのファイル形式: <b>JSON, NDJSON, JSON Lines, CSV, または Parquet。必要に応じて、ファイルは .gz に圧縮できます</b>。
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+データセットの配信方法オプション: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>。
 
-Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
+更新頻度: <b>Once, Daily, Weekly, Monthly, Quarterly, または Custom basis</b>。
 
-Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
+抽出したデータポイントに追加できるデータエンリッチメント: <b>Based on request.</b>
 
-<b>[Get the full TikTok dataset](https://brightdata.com/products/datasets/tiktok)</b>.
+<b>[TikTokのフルデータセットを入手する](https://brightdata.jp/products/datasets/tiktok)</b>。
 
-<h2>What are the TikTok datasets use cases?</h2>
+<h2>TikTokデータセットのユースケースは何ですか？</h2>
 
-<h3>1. Social Media Influence</h3>
-Identify influencers with a strong social presence using our TikTok dataset. Analyze their engagement, follower base, and brand partnerships to collaborate with those best positioned to elevate your brand.
+<h3>1. ソーシャルメディアにおける影響力</h3>
+当社のTikTokデータセットを使用して、強いソーシャルプレゼンスを持つインフルエンサーを特定します。エンゲージメント、フォロワー基盤、ブランド提携を分析し、貴社ブランドを最も効果的に高められるパートナーと協業できます。
 
-<h3>2. Brand Monitoring</h3>
-Understand public sentiment about your brand, product, or service by analyzing TikTok data. Track changes in popularity through likes, comments, shares, hashtags, and mentions to stay ahead of trends.
+<h3>2. ブランドモニタリング</h3>
+TikTokデータを分析することで、貴社ブランド、製品、またはサービスに関する世論や感情を把握します。いいね、コメント、シェア、ハッシュタグ、メンションを通じた人気の変化を追跡し、トレンドを先取りできます。
 
-<h3>3. Competitive Market Insights</h3>
-Gain a competitive edge by assessing the social media activity of rival brands. Review hashtags, posts, and user engagement on TikTok to refine your strategy and outperform competitors.
+<h3>3. 競合市場インサイト</h3>
+競合ブランドのソーシャルメディア活動を評価することで、競争優位性を獲得します。TikTok上のハッシュタグ、投稿、ユーザーエンゲージメントを確認し、戦略を洗練して競合を上回れます。
 
-<h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
+<h2>学術研究者およびNGO向けのWebスクレイピングツールとデータセットへの無料アクセス</h2>
 
-The Bright Initiative offers access to Bright Data's <b>[Web Scraper APIs](https://brightdata.com/products/web-scraper)</b> and <b>[ready-to-use datasets](https://brightdata.com/products/datasets)</b> to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application <b>[here](https://brightinitiative.com)</b>.
+Bright Initiativeは、さまざまな環境・社会的課題を推進する主要な学術機関・研究者、NGOおよびNPOに対して、Bright Dataの <b>[Web Scraper APIs](https://brightdata.jp/products/web-scraper)</b> および <b>[すぐに利用できるデータセット](https://brightdata.jp/products/datasets)</b> へのアクセスを提供しています。申請は <b>[こちら](https://brightinitiative.com)</b> から提出できます。
