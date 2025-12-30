@@ -2,7 +2,7 @@
 
 <h2>1001件のTikTokプロフィールのサンプルデータセット</h2>
 
-![TikTok dataset header](https://github.com/luminati-io/TikTok-dataset-samples/blob/main/tiktok-datasets.PNG)
+![TikTok dataset header](https://github.com/bright-jp/TikTok-dataset-samples/blob/main/tiktok-datasets.PNG)
 
 1000件以上のプロフィールを含むTikTokデータセットサンプルです。データセットは <b>Bright Data API</b> を使用して抽出されました。
 
