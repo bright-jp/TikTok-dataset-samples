@@ -1,4 +1,4 @@
-# TikTok-dataset-samples
+# TikTok データセットサンプル
 
 <h2>1001件のTikTokプロフィールのサンプルデータセット</h2>
 
